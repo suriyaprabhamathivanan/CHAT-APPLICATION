@@ -1,0 +1,49 @@
+body {
+  font-family: Arial;
+  background: linear-gradient(120deg,#0f766e,#22c55e);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.auth-bg {
+  background: linear-gradient(120deg,#1e3a8a,#0ea5e9);
+}
+
+.card, .chat-card {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  width: 320px;
+  animation: slide 0.6s ease;
+}
+
+input, button {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+}
+
+button {
+  background: #0f766e;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.secondary {
+  background: #1e3a8a;
+}
+
+#messages {
+  height: 200px;
+  border: 1px solid #ccc;
+  overflow-y: auto;
+  margin: 10px 0;
+}
+
+@keyframes slide {
+  from { transform: translateY(50px); opacity: 0 }
+  to { transform: translateY(0); opacity: 1 }
+}
