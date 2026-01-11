@@ -225,7 +225,11 @@ It highlights the integration of frontend, backend, WebSocket communication, and
 
 
 **OUTPUT:**
+
 <img width="1919" height="1004" alt="Image" src="https://github.com/user-attachments/assets/f66bda82-3d69-4794-b5b0-c06a58e875b7" />
+
+<img width="1919" height="1008" alt="Image" src="https://github.com/user-attachments/assets/ee7885be-6c86-4c11-8381-72c0f3f5ab94" />
+
 
 
 
