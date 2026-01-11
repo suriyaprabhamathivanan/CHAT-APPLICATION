@@ -224,6 +224,10 @@ This project successfully demonstrates the implementation of a real-time chat sy
 It highlights the integration of frontend, backend, WebSocket communication, and database persistence, making it a strong foundation for advanced messaging applications.
 
 
+**OUTPUT:**
+<img width="1919" height="1004" alt="Image" src="https://github.com/user-attachments/assets/f66bda82-3d69-4794-b5b0-c06a58e875b7" />
+
+
 
 
 
