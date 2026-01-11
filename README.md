@@ -241,6 +241,11 @@ It highlights the integration of frontend, backend, WebSocket communication, and
 
 
 
+<img width="1919" height="1000" alt="Image" src="https://github.com/user-attachments/assets/27b2cd9c-85fb-49b5-8bcb-148b45c33df8" />
+
+
+
+
 
 
 
