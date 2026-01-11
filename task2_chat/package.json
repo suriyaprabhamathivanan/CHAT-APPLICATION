@@ -1,0 +1,16 @@
+{
+  "name": "task2_chat",
+  "version": "1.0.0",
+  "description": "Real-time chat application using Socket.IO and MongoDB",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "express": "^4.19.2",
+    "mongoose": "^8.0.0",
+    "socket.io": "^4.7.5"
+  }
+}
