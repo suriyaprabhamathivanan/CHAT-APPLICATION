@@ -13,6 +13,7 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTHOSH
 
 
+
 **Real-Time Chat Application**
 
 
@@ -22,11 +23,10 @@ This project is a real-time chat application developed using Node.js, Express.js
 
 The application enables multiple users to register, authenticate securely, and exchange messages instantly in real time.
 
-The system demonstrates WebSocket-based communication, persistent data storage, and real-time event handling, making it a strong example of a modern web application 
+The system demonstrates WebSocket-based communication, persistent data storage, and real-time event handling, making it a strong example of a modern web application architecture.
 
-architecture.
 
- 
+
  **Objectives**
 
 1.To design and develop a real-time messaging system
@@ -214,6 +214,7 @@ MongoDB prevents SQL injection risks
 Backend validation for all requests
 
 Secure socket communication
+
 
 **Conclusion**
 
