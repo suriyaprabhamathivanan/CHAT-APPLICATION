@@ -128,6 +128,7 @@ MongoDB stores users and chat messages
 
 **Project Structure**
 
+```
 task2_chat/
 │
 ├── public/
@@ -140,11 +141,11 @@ task2_chat/
 │   ├── User.js          # User Schema
 │   └── Message.js       # Message Schema
 │
-├── server.js            # Main Server File
+├── server.js
 ├── package.json
 ├── package-lock.json
 └── README.md
-
+```
 
 **Install Project Dependencies**
 
